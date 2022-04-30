@@ -1,6 +1,15 @@
-<img align="center" alt="collect" src="https://github-readme-stats.vercel.app/api?username=Youngsccc&include_all_commits=true&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-
-<img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngsccc&hide=php,C++,Objective-C++,java&layout=compact&include_all_commits=true" />
+<div style="display: flex; margin: 20px 0">
+  <img
+    alt="collect"
+    src="https://github-readme-stats.vercel.app/api?username=Youngsccc&include_all_commits=true&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+    style="height: 200px"
+  />
+  <img
+    alt="language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngsccc&hide=php&include_all_commits=true"
+    style="height: 200px;margin-left: 10px"
+  />
+</div>
 
 <a href="https://github.com/Youngsccc/orange">
   <img
