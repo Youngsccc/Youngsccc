@@ -11,12 +11,6 @@
   />
 </div>
 
-<a href="https://github.com/Youngsccc/orange">
-  <img
-    alt="resp-koa-demo"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Youngsccc&repo=orange&show_owner=true"
-  />
-</a>
 <a href="https://github.com/Youngsccc/axios-ts">
   <img 
     alt="resp-axios-ts"
