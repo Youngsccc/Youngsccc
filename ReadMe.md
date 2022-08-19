@@ -6,7 +6,7 @@
   />
   <img
     alt="language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngsccc&hide=php&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngsccc&hide=php,sheel,scss&include_all_commits=true"
     style="height: 200px;margin-left: 10px"
   />
 </div>
@@ -17,10 +17,10 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=Youngsccc&repo=axios-ts&show_owner=true"
   />
 </a>
-<a href="https://github.com/Youngsccc/Koa-demo">
+<a href="https://github.com/Youngsccc/SSR">
   <img
     alt="resp-koa-demo"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Youngsccc&repo=Koa-demo&show_owner=true"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Youngsccc&repo=SRR&show_owner=true"
   />
 </a>
 
@@ -29,15 +29,7 @@
 ![](https://img.shields.io/badge/Code-CSS3-orange?logo=css3)
 ![](https://img.shields.io/badge/Code-Javascript-yellow?logo=Javascript)
 ![](https://img.shields.io/badge/Code-Typescript-blue?logo=typescript)
-
 ![](https://img.shields.io/badge/Library-React-blue?logo=react)
-![](https://img.shields.io/badge/Library-Electron-blue?logo=Electron)
-![](https://img.shields.io/badge/Library-ReactNative-blue?logo=react)
-![](https://img.shields.io/badge/Framework-Vue-ligthgreen?logo=vue)
-
-![](https://img.shields.io/badge/Tools-docker-blue?logo=docker)
-![](https://img.shields.io/badge/Editor-webStorm-blue?logo=webStorm)
-![](https://img.shields.io/badge/Editor-vsCode-blue?logo=Microsoft)
 
 -[Blog: Status_200](https://www.yuque.com/hox05b)
 
