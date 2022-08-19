@@ -4,11 +4,6 @@
     src="https://github-readme-stats.vercel.app/api?username=Youngsccc&include_all_commits=true&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
     style="height: 200px"
   />
-  <img
-    alt="language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngsccc&hide=php,sheel,scss&include_all_commits=true"
-    style="height: 200px;margin-left: 10px"
-  />
 </div>
 
 <a href="https://github.com/Youngsccc/axios-ts">
@@ -20,9 +15,15 @@
 <a href="https://github.com/Youngsccc/SSR">
   <img
     alt="resp-koa-demo"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Youngsccc&repo=SRR&show_owner=true"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Youngsccc&repo=SSR&show_owner=true"
   />
 </a>
+
+<img
+  alt="language"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngsccc&hide=php,shell,scss&include_all_commits=true"
+  style="height: 200px;margin-left: 10px"
+/>
 
 ![](https://img.shields.io/badge/Code-Html-orange?logo=HTML5)
 ![](https://img.shields.io/badge/Code-CSS-green?logo=CSS)
