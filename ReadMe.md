@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; margin: 20px 0;padding: 0">
+<div style="display: flex;margin: 20px 0 30px;">
   <img
     alt="collect"
     src="https://github-readme-stats.vercel.app/api?username=Youngsccc&include_all_commits=true&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
@@ -6,11 +6,11 @@
   />
 </div>
 
-<div style="position: relative;width: calc(100vw - 56px);height: 0;padding-top: 30%">
+<div style="margin: 0 0 20px;">
   <img
     alt="language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngsccc&hide=php,shell,scss,css&include_all_commits=true"
-    style="position: absolute;top: 0;left: 0;width: 100%;"
+    style="height: 100%;"
   />
 </div>
 
