@@ -1,35 +1,18 @@
-<div style="display: flex; margin: 20px 0">
+<div style="display: flex; justify-content: center; margin: 20px 0;padding: 0">
   <img
     alt="collect"
     src="https://github-readme-stats.vercel.app/api?username=Youngsccc&include_all_commits=true&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
-    style="height: 200px"
-  />
-  <img
-    alt="language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngsccc&hide=php,shell,scss,css&include_all_commits=true"
-    style="height: 200px;margin-left: 10px"
+    style="width: 100%"
   />
 </div>
 
-<a href="https://github.com/Youngsccc/axios-ts">
-  <img 
-    alt="resp-axios-ts"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Youngsccc&repo=axios-ts&show_owner=true"
-  />
-</a>
-<a href="https://github.com/Youngsccc/SSR">
+<div style="position: relative;width: calc(100vw - 56px);height: 0;padding-top: 30%">
   <img
-    alt="resp-koa-demo"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Youngsccc&repo=SSR&show_owner=true"
+    alt="language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngsccc&hide=php,shell,scss,css&include_all_commits=true"
+    style="position: absolute;top: 0;left: 0;width: 100%;"
   />
-</a>
-
-![](https://img.shields.io/badge/Code-Html-orange?logo=HTML5)
-![](https://img.shields.io/badge/Code-CSS-green?logo=CSS)
-![](https://img.shields.io/badge/Code-CSS3-orange?logo=css3)
-![](https://img.shields.io/badge/Code-Javascript-yellow?logo=Javascript)
-![](https://img.shields.io/badge/Code-Typescript-blue?logo=typescript)
-![](https://img.shields.io/badge/Library-React-blue?logo=react)
+</div>
 
 -[Blog: Status_200](https://www.yuque.com/hox05b)
 
